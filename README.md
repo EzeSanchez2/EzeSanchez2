@@ -49,6 +49,11 @@
   <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
-
-
 </span>
+
+
+<h2 >Github stats</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=EzeSanchez2&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/EzeSanchez2)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=EzeSanchez2&theme=material-palenight)](https://github.com/EzeSanchez2)
+</div>
